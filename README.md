@@ -6,7 +6,7 @@ This python package is prepared by Awon Khrais.
 
 Install
 
-`pip install git+ssh://git@github.com/kgptalkie/preprocess_kgptalkie.git`
+`pip install git+ssh://git@github.com:Awonkhrais/preprocess_kgptalkie.git`
 
 Uninstall
 
